@@ -1,3 +1,5 @@
+* Deep SR-ITM: Joint Learning of Super-resolution and Inverse Tone-Mapping for 4K UHD HDR Applications 
+  + [paper](https://arxiv.org/ftp/arxiv/papers/1904/1904.11176.pdf)
 * Learning Digital Camera Pipeline for Extreme Low-Light Imaging
   + [paper](https://arxiv.org/pdf/1904.05939.pdf)
 
